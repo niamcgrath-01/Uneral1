@@ -17,7 +17,7 @@
 		},
 		{
 			"Name": "InEditorDocumentation",
-			"Enabled": true,
+			"Enabled": false,
 			"TargetAllowList": [
 				"Editor"
 			],
@@ -26,10 +26,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "AIAssistant",
-			"Enabled": true
 		}
 	]
 }
